@@ -1,2 +1,2 @@
 # Udacity_deeplearning
-Deep Learning in Udacity
+Deep Learning Assignment in Udacity
